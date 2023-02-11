@@ -1,5 +1,3 @@
-# The "VideoAudioToText3.py" application works perfectly. I created the VideoAudioToText4.py to add progree bar and show the text in a new window.
-
 import tkinter as tk
 import tkinter.filedialog as filedialog
 import tkinter.messagebox as messagebox
